@@ -1,0 +1,6 @@
+python-docx
+cn2an
+excel2img
+lxml
+openpyxl
+pyodbc
